@@ -12,3 +12,6 @@ Some definitions of the exception-based model are not completely formally correc
 
 ## 1/0 = 0
 A little math rant by Hillel Wayne on division by zero found while doing this presentation. [https://www.hillelwayne.com/post/divide-by-zero/](https://www.hillelwayne.com/post/divide-by-zero/) 
+
+## Slides template
+Thanks to [SkiFire13](https://github.com/SkiFire13)! The template is here [typst-touying-unipd](https://github.com/SkiFire13/typst-touying-unipd)
