@@ -1,0 +1,7 @@
+.vscode/
+*.pdf
+
+# random stuff used when studying
+blob/
+# used for writing down stuff before slides
+notes/
